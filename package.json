@@ -1,0 +1,8 @@
+{
+  "name": "yields-is-touch",
+  "description": "Check if touch is supported.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
